@@ -7,6 +7,7 @@ We have done the pre-processing and cleaning of dataset as per our requirement
 2. **Visualization of data:**
 We have done the visualization on data also and draw some graphs of the given data
   A. Product Category v/s Number of Product
+  
   B. Product Category v/s Mean Discount Percentage
 
 3.**Measuring the accuracy of the model:**
